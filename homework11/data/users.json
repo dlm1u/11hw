@@ -1,0 +1,38 @@
+{
+    "1045189493": {
+        "state": "finished",
+        "user_name": "какашка",
+        "gender": "Женский",
+        "current_scene": "party_dance"
+    },
+    "1432419448": {
+        "state": "finished",
+        "user_name": "Иван",
+        "gender": "Мужской",
+        "current_scene": "party_dance"
+    },
+    "8155542814": {
+        "state": "finished",
+        "user_name": "Женя",
+        "gender": "Мужской",
+        "current_scene": "school_ignore"
+    },
+    "763860801": {
+        "state": "waiting_name",
+        "user_name": null,
+        "gender": null,
+        "current_scene": null
+    },
+    "657213811": {
+        "state": "playing",
+        "user_name": "Кэролайн",
+        "gender": "Женский",
+        "current_scene": "intro"
+    },
+    "1009586978": {
+        "state": "playing",
+        "user_name": "Максончик",
+        "gender": "Мужской",
+        "current_scene": "intro"
+    }
+}
